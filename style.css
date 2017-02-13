@@ -1,0 +1,25 @@
+em {
+    text-decoration: overline;
+    color: aqua;
+    text-shadow: 10px 10px darkblue;
+}
+
+h1 {
+    font-size: 100px;
+    color: lightgray;
+      text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+h2 {
+    text-align: center;
+    color: springgreen;
+    border: 30px dashed hotpink;
+}
+
+h3 {
+    font-size: 4px;
+}
